@@ -3,7 +3,9 @@
 情感分析资料：
 
 [awesome-sentiment-analysis](https://github.com/xiamx/awesome-sentiment-analysis)
+
 [baidu/Senta](https://github.com/baidu/Senta)
+
 [snownlp](https://github.com/isnowfy/snownlp)
 
 1 基于情感词典的情感极性分析
