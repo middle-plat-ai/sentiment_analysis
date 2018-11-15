@@ -2,6 +2,8 @@
 
 情感分析资料：
 
+[sentiment_analysis(English)](https://github.com/sebastianruder/NLP-progress/blob/master/english/sentiment_analysis.md)
+
 [awesome-sentiment-analysis](https://github.com/xiamx/awesome-sentiment-analysis)
 
 [baidu/Senta](https://github.com/baidu/Senta)
