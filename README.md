@@ -20,15 +20,15 @@ sents_score(text, sentiment_dict, degree_dict, notword)
 
 text:需要计算情感的文本，可以是一个句子，也可以是多个句子
 
-sentiment_dict：情感词典，包含情感词，及其对应的分值
+sentiment_dict：字典，情感词典，包含情感词，及其对应的分值
 
-degree_dict：程度词典，包含程度词，及其对应的分值
+degree_dict：字典，程度词典，包含程度词，及其对应的分值
 
-notword：否定词
+notword：列表，否定词
 
-demo.py是一个运行的例子
+### demo.py是一个运行的例子
 
-直接运行
+运行
 
 python demo.py
 
