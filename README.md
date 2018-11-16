@@ -14,7 +14,7 @@
 
 ### 1 基于情感词典的情感极性分析
 
-  ### 主体文件：sentianalysis.py
+    sentianalysis.py
 
     sents_score(text, sentiment_dict, degree_dict, notword)
 
