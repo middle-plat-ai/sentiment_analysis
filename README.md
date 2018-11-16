@@ -1,6 +1,6 @@
 # sentiment_analysis
 
-情感分析资料：
+## 情感分析资料
 
 [sentiment_analysis(English)](https://github.com/sebastianruder/NLP-progress/blob/master/english/sentiment_analysis.md)
 
@@ -12,9 +12,9 @@
 
 [AllenNLP senttiment_analysis](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650750932&idx=3&sn=30b8412c4d612f52ae5f0c42ae001b07&chksm=871afbaab06d72bc110e2c73eb70b56d5b56acf98faa4bd5f94f5c8cfc91c4e894e5b9c16597&scene=21#wechat_redirect)
 
-1 基于情感词典的情感极性分析
+## 1 基于情感词典的情感极性分析
 
-主体文件：sentianalysis.py
+### 主体文件：sentianalysis.py
 
 sents_score(text, sentiment_dict, degree_dict, notword)
 
